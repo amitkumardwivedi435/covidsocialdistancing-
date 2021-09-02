@@ -1,5 +1,5 @@
 # Social Distancing Analyzer
-
+For repo is https://github.com/amitkumardwivedi435/covidsocialdistancing-
 ## Overview
 
 <b>Social distancing</b> is deliberately increasing the physical space between people to avoid spreading illness. Staying at least six feet away from other people lessens your chances of catching <b>COVID-19</b>. This project uses OpenCV and YOLO to monitor/analyze whether people are maintaining social distancing or not.
@@ -52,7 +52,7 @@ Output video
   <li><a href="https://www.pyimagesearch.com/start-here/">Getting started with OpenCV</a></li>
   <li><a href="https://pjreddie.com/darknet/yolo/">YOLO for Object Detection</a></li>
 </ul>
-
+Has MIT License
 <b><i>PPS: Stay Home and Stay Safe!😊 </i><b>
 
 
