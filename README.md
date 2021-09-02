@@ -53,17 +53,6 @@ Output video
   <li><a href="https://pjreddie.com/darknet/yolo/">YOLO for Object Detection</a></li>
 </ul>
 
-## License
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
-[MIT License Link](https://github.com/sherwyn11/Social-Distancing-Analyzer/blob/master/LICENSE)
-
-
-Also, do give my medium article a read! <a href="https://medium.com/@sherwyndsouza1999/social-distancing-analyzer-using-opencv-and-yolo-7572aed7b3bf">Click Here</a>
-
-<b><i>PS: This is my first OpenCV project. Will work on more in the future.</i><b><br></br>
 <b><i>PPS: Stay Home and Stay Safe!😊 </i><b>
 
-<br>
-&copy; Sherwyn D'souza 2020
+
