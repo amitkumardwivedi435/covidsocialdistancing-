@@ -46,12 +46,6 @@ Output video
 
 &nbsp;<b><i>Will work on these limitations.</i><b>
 
-## References
-
-<ul>
-  <li><a href="https://www.pyimagesearch.com/start-here/">Getting started with OpenCV</a></li>
-  <li><a href="https://pjreddie.com/darknet/yolo/">YOLO for Object Detection</a></li>
-</ul>
 Has MIT License
 <b><i>PPS: Stay Home and Stay Safe!😊 </i><b>
 
